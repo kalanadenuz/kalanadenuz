@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KAlana Denusha
+- 👋 Hi, I’m Kalana Denusha
 - 👀 I’m interested in Software development and Artificial Intelligence!
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on Open Source Projects.
